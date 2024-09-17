@@ -92,7 +92,7 @@ int main(){
     double wage {22.24};
     cout << "Wage is " << sizeof(wage) << " bytes - sizeof (wage).\n"
          << "Or wage is " << sizeof wage << " bytes - sizeof wage.\n";
-    
+
     
     return 0;
 }

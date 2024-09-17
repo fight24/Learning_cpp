@@ -1,3 +1,5 @@
 /HelloWorld.exe
 /output
 /**/*.exe
+/.vscode
+/**/output
